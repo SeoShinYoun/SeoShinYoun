@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeoShinYoun
 - 👀 I’m interested in ... exploring the fields of Data Science 
 - 🌱 I’m currently learning ... how to master Python and its various subsets
-- 💞️ I’m looking to collaborate on ... getting a 4.0 GPA
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... seoshinyoun@gmail.com
 
 <!---
