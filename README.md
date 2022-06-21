@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeoShinYoun
 - 👀 I’m interested in ... exploring the fields of Artificial Intelligence and Web Development
-- 🌱 I’m currently learning ... R programming
+- 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... seoshinyoun@gmail.com
 
